@@ -1,3 +1,4 @@
+
 Hola soy Ale Sierra, tengo 20 años, me gusta cocinar y ver películas. Soy estudiante de inegeniería en ciencas de la computación en UVG, y soy la coordinadora del proyecto WhereNow
 
 
@@ -5,3 +6,5 @@ Hola soy Camila Sandoval, tengo 20 años, soy estudiante de compu, me gusta much
 
 
 Hola soy Emily, tengo 19 años, me gusta leer y ver series. Estoy en mi 2do año de inegeniería en ciencas de la computación
+
+Hola soy Alejandro, tengo 19 años y me gusta escuchar música y aprender cosas nuevas. Estoy en mi segundo año en ciencias de la computación.
