@@ -27,6 +27,6 @@ El objetivo de **WhereNow** es hacer más **fácil, seguro y divertido** compart
 
 El error que tuvimos fue que el mismo miembro edito el mismo archivo, la primera vez sin hacer pull request y la segunda vez si, esto genero conflicto porque el commit estaba "repetido", solucionamos esto al aceptar el pull request editando el texto y eliminando el texto repetido
 
-![Imagen del conflicto](FotoConflicto.png)
+![Imagen del conflicto](FotoConflicto)
 
 
