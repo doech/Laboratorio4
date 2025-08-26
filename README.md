@@ -1,3 +1,4 @@
+
 # 📱 WhereNow  
 
 **WhereNow** es una aplicación social que conecta a las personas con eventos locales de una manera más personalizada y segura.  
@@ -21,3 +22,8 @@ Esteban De la Peña · Emily Góngora · Alejandro Pérez · Camila Sandoval · 
 ## 🎯 Objetivo  
 
 El objetivo de **WhereNow** es hacer más **fácil, seguro y divertido** compartir experiencias en la vida real, dándole prioridad a la **confianza** y a las **conexiones auténticas**.  
+
+## Solución de error
+
+El error que tuvimos fue que el mismo miembro edito el mismo archivo, la primera vez sin hacer pull request y la segunda vez si, esto genero conflicto porque el commit estaba "repetido", solucionamos esto al aceptar el pull request editando el texto y eliminando el texto repetido
+
